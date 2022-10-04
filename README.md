@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Soltution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Soltution](https://www.frontendmentor.io/solutions/single-price-grid-component-challenge-qMZ4Yb2tvf)
+- Live Site URL: [Live Site](https://zwiro.github.io/single-price-grid-component-challenge/)
 
 ## My process
 
